@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "uName": "raj",
+      "mailid": "raj@gmail.com",
+      "password": "riren29239",
+      "gender": "m",
+      "id": 1
+    },
+    {
+      "uName": "Bhavyashree",
+      "mailid": "bhavyashree29998@gmail.com",
+      "password": "ibjlo7544",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "userName": "bhavya",
+      "mailid": "enter@gmail.com",
+      "password": "4556778899",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "userName": "daisy",
+      "mailid": "daisy@mail.com",
+      "password": "daisy@123",
+      "gender": "Female",
+      "id": 4
+    }
+  ]
+}
